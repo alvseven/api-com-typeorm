@@ -1,5 +1,3 @@
-# S5-19 | 🏁 Entrega: KImóveis - TypeORM com Relacionamentos
-
 Para inciar este projeto, é necessário instalar as dependências, que serão utilizadas nos testes. Portanto utilize o comando abaixo para instalar tais dependências:
 
 ````
@@ -23,7 +21,7 @@ npm install --global yarn
 <br>
 
 
-Essa entrega já está com o Docker configurado, basta preencher as variáveis de ambiente no .env
+O docker já está configurado, basta preencher as variáveis de ambiente no .env
 
 Basta buildar e subir nossos containers usando o comando padrão:
 ````
@@ -109,6 +107,3 @@ Após rodar um dos comandos aparecerá um log no seu terminal, contendo as infor
 
 #
 
-
-
-### Agora que já sabe como iniciar o seu projeto e rodar os testes, é hora de colocar a mão no código!
